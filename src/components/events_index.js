@@ -8,9 +8,7 @@ import {
   TableRow,
   TableRowColumn,
   TableHeader,
-  TableHeaderColumn,
-  TableHeaderRow,
-  TableHeaderRowColumn
+  TableHeaderColumn
 } from 'material-ui/Table';
 import FloatingActionButton from 'material-ui/FloatingActionButton';
 import ContentAdd from 'material-ui/svg-icons/content/add';
